@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedirectMiddleware", "RedirectMiddleware\RedirectMiddleware.csproj", "{F2BC830E-0D27-4E07-AB5C-3D3ACD840E32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedirectMiddlewareTest", "RedirectMiddlewareTest\RedirectMiddlewareTest.csproj", "{89379067-3C89-4A9D-8B4A-C5692BF5B548}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{F2BC830E-0D27-4E07-AB5C-3D3ACD840E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2BC830E-0D27-4E07-AB5C-3D3ACD840E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2BC830E-0D27-4E07-AB5C-3D3ACD840E32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89379067-3C89-4A9D-8B4A-C5692BF5B548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89379067-3C89-4A9D-8B4A-C5692BF5B548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89379067-3C89-4A9D-8B4A-C5692BF5B548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89379067-3C89-4A9D-8B4A-C5692BF5B548}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

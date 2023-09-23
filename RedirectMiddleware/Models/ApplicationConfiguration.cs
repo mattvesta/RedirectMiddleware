@@ -2,5 +2,5 @@
 
 public class ApplicationConfiguration
 {
-    
+    public int RefreshMinutes { get; set; }
 }
